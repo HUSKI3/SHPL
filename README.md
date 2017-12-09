@@ -11,3 +11,16 @@ Coming soon
 # Contribute
 Please Dm me on discord for this:
 @Retr0 ZeroDay#4263
+
+# Settings.canp
+
+//start.can.licensed
+//settings.canp---l-u-p
+echo.debcan <<< 22j32lps98963n3nv4n3jb652b5
+set.net <<< 13vko3QTC1Jsace174CvKCbWrgpuFWgeMP
+set.id <<< XxJe6ws2ecNMq4Fpfr4gkBxGRmzWLWdWM4
+get.git.let <<< set.id +++ echo.debcan +++ set.id
+ref.get git.let
+setup.lic
+//check SHPL/logs/pp.can if ref.get server unreachable
+git.start.pull
